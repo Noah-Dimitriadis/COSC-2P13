@@ -1,0 +1,146 @@
+C:\Users\noahd\.jdks\corretto-11.0.26\bin\java.exe "-javaagent:C:\Users\noahd\IntelliJ IDEA Community Edition 2022.3.1\lib\idea_rt.jar=51056:C:\Users\noahd\IntelliJ IDEA Community Edition 2022.3.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\noahd\Documents\COSC 2P13\COSC-2P13\out\production\COSC-2P13" Assignment1.Workspace
+Welcome to the makerspace! What would you like to make?
+Press the number of the item you wish to make to get started.
+ If you wish to change the number of items for a particular knickknack press the number again to redo the selection, the previous one will be overwritten.
+1. Figurines for Mazes and Monsters
+2. Motor Controllers with Custom PCBs
+3. Chess Set
+4. Toaster Pastry
+5. Cup Holder
+6. SAK Scales
+7. Flashlight
+8. Make 1 million of each knickknack and notify every 100,000
+0. No more Knickknacks
+Enter your choice:1
+You have chosen to make Figurines for Mazes and Monsters!
+How many would you like to make: 1000000
+How often would you like to be reminded(e.g. If i wanted to be reminded every millionth knickknack I would enter 1000000)
+Remind every:
+1000000
+1. Figurines for Mazes and Monsters
+2. Motor Controllers with Custom PCBs
+3. Chess Set
+4. Toaster Pastry
+5. Cup Holder
+6. SAK Scales
+7. Flashlight
+8. Make 1 million of each knickknack and notify every 100,000
+0. No more Knickknacks
+Enter your choice:2
+You have chosen to make Motor Controllers with Custom PCBs!
+How many would you like to make: 2000000
+How often would you like to be reminded(e.g. If i wanted to be reminded every millionth knickknack I would enter 1000000)
+Remind every:
+500000
+1. Figurines for Mazes and Monsters
+2. Motor Controllers with Custom PCBs
+3. Chess Set
+4. Toaster Pastry
+5. Cup Holder
+6. SAK Scales
+7. Flashlight
+8. Make 1 million of each knickknack and notify every 100,000
+0. No more Knickknacks
+Enter your choice:3
+You have chosen to make Chess Set!
+How many would you like to make: 10000000
+How often would you like to be reminded(e.g. If i wanted to be reminded every millionth knickknack I would enter 1000000)
+Remind every:
+300000
+1. Figurines for Mazes and Monsters
+2. Motor Controllers with Custom PCBs
+3. Chess Set
+4. Toaster Pastry
+5. Cup Holder
+6. SAK Scales
+7. Flashlight
+8. Make 1 million of each knickknack and notify every 100,000
+0. No more Knickknacks
+Enter your choice:4
+You have chosen to make Toaster Pastry!
+How many would you like to make: 3000000
+How often would you like to be reminded(e.g. If i wanted to be reminded every millionth knickknack I would enter 1000000)
+Remind every:
+1000000
+1. Figurines for Mazes and Monsters
+2. Motor Controllers with Custom PCBs
+3. Chess Set
+4. Toaster Pastry
+5. Cup Holder
+6. SAK Scales
+7. Flashlight
+8. Make 1 million of each knickknack and notify every 100,000
+0. No more Knickknacks
+Enter your choice:5
+You have chosen to make Cup Holder!
+How many would you like to make: 1000000
+How often would you like to be reminded(e.g. If i wanted to be reminded every millionth knickknack I would enter 1000000)
+Remind every:
+500000
+1. Figurines for Mazes and Monsters
+2. Motor Controllers with Custom PCBs
+3. Chess Set
+4. Toaster Pastry
+5. Cup Holder
+6. SAK Scales
+7. Flashlight
+8. Make 1 million of each knickknack and notify every 100,000
+0. No more Knickknacks
+Enter your choice:4000000
+Invalid input, please choose a number corresponding to the Knickknack you wish to make.
+1. Figurines for Mazes and Monsters
+2. Motor Controllers with Custom PCBs
+3. Chess Set
+4. Toaster Pastry
+5. Cup Holder
+6. SAK Scales
+7. Flashlight
+8. Make 1 million of each knickknack and notify every 100,000
+0. No more Knickknacks
+Enter your choice:0
+Thank you for your selections!
+Chess Set has completed 300000!
+Toaster Pastry has completed 1000000!
+Cup Holder has completed 500000!
+DND Figurine has completed all 1000000!
+Motor Controllers has completed 500000!
+Toaster Pastry has completed 2000000!
+Chess Set has completed 600000!
+Cup Holder has completed all 1000000!
+Toaster Pastry has completed all 3000000!
+Chess Set has completed 900000!
+Motor Controllers has completed 1000000!
+Chess Set has completed 1200000!
+Motor Controllers has completed 1500000!
+Chess Set has completed 1500000!
+Motor Controllers has completed all 2000000!
+Chess Set has completed 1800000!
+Chess Set has completed 2100000!
+Chess Set has completed 2400000!
+Chess Set has completed 2700000!
+Chess Set has completed 3000000!
+Chess Set has completed 3300000!
+Chess Set has completed 3600000!
+Chess Set has completed 3900000!
+Chess Set has completed 4200000!
+Chess Set has completed 4500000!
+Chess Set has completed 4800000!
+Chess Set has completed 5100000!
+Chess Set has completed 5400000!
+Chess Set has completed 5700000!
+Chess Set has completed 6000000!
+Chess Set has completed 6300000!
+Chess Set has completed 6600000!
+Chess Set has completed 6900000!
+Chess Set has completed 7200000!
+Chess Set has completed 7500000!
+Chess Set has completed 7800000!
+Chess Set has completed 8100000!
+Chess Set has completed 8400000!
+Chess Set has completed 8700000!
+Chess Set has completed 9000000!
+Chess Set has completed 9300000!
+Chess Set has completed 9600000!
+Chess Set has completed 9900000!
+Chess Set has completed all 10000000!
+All finished!
